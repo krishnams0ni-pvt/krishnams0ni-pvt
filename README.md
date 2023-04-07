@@ -2,6 +2,10 @@
 
 View my public profile [**here**](https://github.com/krishnams0ni).
 
+<p><img align="center" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=krishnams0ni-pvt&theme=github_dark"
+ alt="krishnams0ni-pvt" /></p>
+
 <!--
 **krishnams0ni-pvt/krishnams0ni-pvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
