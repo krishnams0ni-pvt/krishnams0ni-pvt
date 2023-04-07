@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="left"> <img 
+src="https://komarev.com/ghpvc/?username=krishnams0ni-pvt&label=Profile%20views&color=0e75b6&style=flat"
+ alt="krishnams0ni-pvt" /> </p>
+ 
 View my public profile [**here**](https://github.com/krishnams0ni).
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=krishnams0ni-pvt&theme=github_dark&count_private=true)
