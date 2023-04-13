@@ -6,7 +6,7 @@ src="https://komarev.com/ghpvc/?username=krishnams0ni-pvt&label=Profile%20views&
  
 View my public profile [**here**](https://github.com/krishnams0ni).
  
-![](https://github-readme-streak-stats.herokuapp.com/?user=krishnams0ni-pvt&theme=chartreuse-dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=krishnams0ni-pvt&theme=chartreuse-dark&hide_border=true&count_private=true)
 
 <!--
 **krishnams0ni-pvt/krishnams0ni-pvt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
