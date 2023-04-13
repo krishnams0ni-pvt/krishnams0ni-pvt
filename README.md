@@ -1,8 +1,8 @@
 ## Hi there 👋
- 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnams0ni-pvt&theme=chartreuse-dark&hide_border=true&count_private=true" />
-</a>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnams0ni-pvt&theme=chartreuse-dark&hide_border=true&count_private=true" align = "center"/>
+</p>
  
 View my public profile [**here**](https://github.com/krishnams0ni).
 
